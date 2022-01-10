@@ -1,0 +1,24 @@
+{
+  "name": "interview-ti",
+  "version": "1.0.0",
+  "description": "Test for Team International Interview",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christiantglobant/interview-ti.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christiantglobant/interview-ti/issues"
+  },
+  "homepage": "https://github.com/christiantglobant/interview-ti#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
